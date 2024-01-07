@@ -12,19 +12,18 @@ Doing some final polishing and proofreading.
 
 
 ## Log
-- 16/08/2021 - Finished initial proposal
-- 15/09/2021 - Registered thesis with study administration
-- 05/10/2021 - Officially started writing
-- 11/2021 - Finished draft for introduction of (confirmatory) factor analysis
-- 11/2021 - Finished draft for introduction of measurement invariance
-- 11/2021 - Implemented detection methods (existing and original contribution) for single-factor models
-- 11/2021 - Implemented preliminary simulation study
-- 12/2021 - Implemented detection methods for more general CFA models
-- 12/2021 - Finished draft for introduction of detection methods
-- 12/2021 - Finished draft for simulation study
-- 01/2022 - Finished draft introduction
-- 01/2022 - Finished draft for application
-- 01/2022 - Programmed Shiny app for interactive version of simulation study
-- 01/2022 - Formalized idea of novel method (to be added to draft)
-- 02/2022 - Ran final version of simulation study
-- 02/2022 - Added formalized novel method introduction
+- 13/01/2023 - Presented project plan on UWW260
+- 25/01/2023 - Finished initial proposal
+- 01/02/2023 - Officially started writing/drafting
+- 03/2023 - Implemented preliminary simulation study
+- 05/2023 - Implemented sampling strategy design 
+- 08/2023 - Finished draft introduction
+- 09/2022 - Finished draft for materials and methods 
+- 10/2023 - Finished draft for model design
+- 10/2023 - Programmed simulation for Thur case study
+- 11/2023 - Ran final version of simulation study
+- 12/2023 - Finished draft for results analyse 
+- 11/2023 - Hand in a PDF of the final Master’s thesis
+- 12/2023 - Present master’s thesis
+- 01/2024 - Added formalized Github introduction
+- 01/2024 - Hand in the final corrected thesis
