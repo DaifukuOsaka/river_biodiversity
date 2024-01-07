@@ -17,7 +17,7 @@ Doing some final polishing and proofreading.
 - 03/2023 - Implemented preliminary simulation study
 - 05/2023 - Implemented sampling strategy design 
 - 08/2023 - Finished draft introduction
-- 09/2022 - Finished draft for materials and methods 
+- 09/2023 - Finished draft for materials and methods 
 - 10/2023 - Finished draft for model design
 - 10/2023 - Programmed simulation for Thur case study
 - 11/2023 - Ran final version of simulation study
