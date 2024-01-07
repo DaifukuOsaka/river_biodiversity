@@ -20,8 +20,8 @@ Doing some final polishing and proofreading.
 - 09/2023 - Finished draft for materials and methods 
 - 10/2023 - Finished draft for model design
 - 10/2023 - Programmed simulation for Thur case study
-- 11/2023 - Ran final version of simulation study
-- 12/2023 - Finished draft for results analyse 
+- 10/2023 - Ran final version of simulation study
+- 11/2023 - Finished draft for results analyse 
 - 11/2023 - Hand in a PDF of the final Master’s thesis
 - 12/2023 - Present master’s thesis
 - 01/2024 - Added formalized Github introduction
